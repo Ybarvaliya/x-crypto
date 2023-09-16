@@ -1,0 +1,9 @@
+.image {
+  animation: imgUp 0.7s linear infinite alternate;
+}
+
+@keyframes imgUp {
+  to {
+    transform: translateY(-10px);
+  }
+}
