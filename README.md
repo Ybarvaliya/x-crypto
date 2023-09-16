@@ -1,8 +1,3 @@
-# React + Vite
+# X-Crypto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It is Crypto Platform. I have used React Js, tailwind CSS, ChartJs, Axios, react-router-dom to make this project. You can see various crypto Exchanges and coins. You can also get Graphs and details of specific coins needed for your crypto research. I have included Error, Loading, Header, Footer, Exchanges, Coins, Coin, Home Components. Data is Coming from coin-gecko's API.
