@@ -7,14 +7,14 @@ It is compatible with various screen sizes.
 
 What I have used:
 
-React Js as Frontend Javascript Library
-Tailwind CSS - to design the app
-CoinGecko as API
-Axios to fetch data
-React-Router-DOM to use Routing in the App
-Chart js - A javascript library to create Charts on your web App
-React Icons library 
-Html-to-react library
+* React Js as Frontend Javascript Library
+* Tailwind CSS - to design the app
+* CoinGecko as API
+* Axios to fetch data
+* React-Router-DOM to use Routing in the App
+* Chart js - A javascript library to create Charts on your web App
+* React Icons library 
+* Html-to-react library
 
 To use this App on your device...
 1. Just Clone it or download zip into your device
