@@ -72,7 +72,7 @@ function Exchange() {
 
 const ExchangeCard = ({ name, img, rank, url }) => (
   <a href={url} target={"blank"} >
-    <div className="p-7 m-5 text-center w-44 h-4/5 shadow-md">
+    <div className="p-7 m-5 text-center w-44 h-4/5 shadow-md transition ease-in-out hover:scale-110 duration-300">
       <img className='h-24 w-24 mx-auto' src={img} />
       <h3 className="mt-3 text-lg">{rank}</h3>
 

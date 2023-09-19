@@ -127,7 +127,7 @@ const CoinsCard = ({ id, img, name, symbol, price, curr }) => {
 
   return (
     <Link to={`/coin/${id}`}>
-      <div className="p-2 m-4 text-center shadow-md w-44 h-64">
+      <div className="p-2 m-4 text-center shadow-md w-44 h-64 transition ease-in-out hover:scale-110 duration-300 ">
         <img src={img} alt="" className="w-28 h-28 mx-auto" />
         <div className="uppercase mt-3 text-lg">{symbol}</div>
         <p className="mt-1 text-slate-500">{name}</p>
